@@ -71,7 +71,7 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 
 ## 📄 Thesis
 
-- [Generative Adversarial Network based Synthetic Data Generation System](https://github.com/shohan112/Synthetic-Data.git)
+- [Generative Adversarial Network based Synthetic Data Generation System]([https://github.com/shohan112/Synthetic-Data.git](https://github.com/shohanoorr/UG-Thesis#))
 
 ---
 ## 🏅 Certifications
