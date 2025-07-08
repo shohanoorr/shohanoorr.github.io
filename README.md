@@ -75,8 +75,21 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 - [Generative Adversarial Network based Synthetic Data Generation System](https://github.com/shohan112/Synthetic-Data.git)
 
 ---
+## 🏅 Certifications
 
-## 🧠 Programming Skills
+### 🧠 Deep Learning & GANs (DeepLearning.AI)
+- [Generative Adversarial Networks (GANs)](https://coursera.org/share/4e77a15c8e4b36a6a1bb5087d89b9ee6)
+- [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/share/22fc3c9a49e2b21da48cf4cea50bc9f7)
+- [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/HBCDHSZMQ36U)
+- [Apply Generative Adversarial Networks (GANs)](https://coursera.org/share/d04cde9a4bf3b81cb0124f67b2621fa6)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/UCUXWGK6HMRK)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/be50cd3a6ffbd98c1089dc4ca99d89b1)
+- [Convolutional Neural Networks](https://coursera.org/share/0c0962410e14a6578bc35b7b6d32cc1b)
+- [Sequence Models](https://coursera.org/share/31c21f5616a5c2da4eb6157e318751c5)
+
+### 👨‍💻 Programming & Data Foundations
+- [Programming for Everybody (Getting Started with Python) – University of Michigan](https://www.coursera.org/account/accomplishments/verify/SVXBF7NQUTSP)
+- [Foundations: Data, Data, Everywhere – Google](https://coursera.org/share/dfc2165696b8b739e7581026d19f1c70)
 
 - **Languages:** Java, Python, JavaScript, TypeScript, C/C++, SQL  
 - **Technologies:** Microservices, Spring Boot, Node.js, Express.js, NestJS, Angular, Apache Kafka, PostgreSQL, MongoDB, Redis, Kubernetes
