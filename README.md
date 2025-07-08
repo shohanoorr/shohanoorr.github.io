@@ -90,5 +90,7 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 - [Programming for Everybody (Getting Started with Python) – University of Michigan](https://www.coursera.org/account/accomplishments/verify/SVXBF7NQUTSP)
 - [Foundations: Data, Data, Everywhere – Google](https://coursera.org/share/dfc2165696b8b739e7581026d19f1c70)
 
+---
+
 - **Languages:** Java, Python, JavaScript, TypeScript, C/C++, SQL  
 - **Technologies:** Microservices, Spring Boot, Node.js, Express.js, NestJS, Angular, Apache Kafka, PostgreSQL, MongoDB, Redis, Kubernetes
