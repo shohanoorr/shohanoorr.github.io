@@ -8,7 +8,7 @@
 
 ## 🎯 Career Objective
 
-About 2 years of experience as a full-stack engineer has equipped me with expertise in microservice architecture and strong proficiency in modular/component-based development. I currently leverage this skillset to architect and build user-friendly, responsive UIs for secure financial transactions within a complex enterprise software system, utilizing Angular and Spring Boot microservices. To stay ahead of the curve, I am actively expanding my knowledge of fintech solutions like Internet Banking and e-Wallets.
+I am deeply passionate about advancing Explainable AI (XAI) — making complex AI systems more transparent, trustworthy, and aligned with human reasoning. My interests lie in applying Machine Learning and Deep Learning techniques with efficient hyperparameter tuning to solve real-world problems where interpretability is critical. I have explored areas such as Deep Neural Networks, convolutional and recurrent architectures, and Reinforcement Learning, including methods like Markov Decision Processes, Temporal Difference learning, A2C, and DDPG. These experiences have strengthened my commitment to building intelligent systems that not only perform well but can also explain why they behave as they do. Complementing my research interests, I bring 2 years of professional experience as a full-stack engineer, designing and deploying scalable fintech applications using Spring Boot microservices and Angular, which enhances my ability to bridge theoretical innovation with practical implementation.
 
 ---
 
