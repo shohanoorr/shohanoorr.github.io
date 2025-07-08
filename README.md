@@ -43,16 +43,16 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 
 ## 🚀 Projects
 
-- <img src="assets/logos/tennant.png" width="20"/> **Tennant Company**  
+- <img src="assets/tennant.png" width="20"/> **Tennant Company**  
   Tennant Company provides innovative, battery-powered autonomous cleaning solutions integrated into a scalable cloud platform, Optimus, built on Azure. The system enables real-time data collection, aggregation, and insight generation via API-driven architecture, powering portals like Hercules and IRIS.
 
-- <img src="assets/logos/pocket-icon.png" width="20"/> **Pocket**  
+- <img src="assets/pocket-icon.png" width="20"/> **Pocket**  
   E-Wallet with Admin, Customer, and Merchant Portals using Spring Boot microservices and Angular frontend. Utilized PostgreSQL, Kafka, Redis.
 
-- <img src="assets/logos/ab-logo.png" width="20"/> **AB Direct**  
+- <img src="assets/ab-logo.png" width="20"/> **AB Direct**  
   Internet Banking System for AB Bank PLC. with Admin Portal built using Spring Boot microservices, Angular, Kafka, PostgreSQL, Redis.
 
-- <img src="assets/logos/ncc-logo.png" width="20"/> **NCC Always**  
+- <img src="assets/ncc-logo.png" width="20"/> **NCC Always**  
   All-in-one web portal for banking transactions like MFS, bill pay, fund transfers, etc. Built with Spring Boot, Kafka, Angular.
 
 - **Aerial Satellite Imagery into Map Routes**  
