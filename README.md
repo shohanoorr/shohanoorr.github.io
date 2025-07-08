@@ -43,6 +43,8 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 
 ## 🚀 Projects
 
+- **Tennant Company**  
+  Tennant Company provides innovative, battery-powered autonomous cleaning solutions integrated into a scalable cloud platform, Optimus, built on Azure. The system enables real-time data collection, aggregation, and insight generation via API-driven architecture, powering portals like Hercules and IRIS.
 - **Pocket**  
   E-Wallet with Admin, Customer, and Merchant Portals using Spring Boot microservices and Angular frontend. Utilized PostgreSQL, Kafka, Redis.
 
@@ -51,9 +53,6 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 
 - **NCC Always**  
   All-in-one web portal for banking transactions like MFS, bill pay, fund transfers, etc. Built with Spring Boot, Kafka, Angular.
-
-- **Guess the Number**  
-  A VanillaJS-based number guessing game.
 
 - **Aerial Satellite Imagery into Map Routes**  
   Image-to-image translation using Conditional GAN with encoder-decoder and PatchGAN discriminator.
@@ -66,6 +65,9 @@ About 2 years of experience as a full-stack engineer has equipped me with expert
 
 - **Biomedical Image Segmentation**  
   Implemented U-Net with 23 convolutional layers for segmenting biomedical images.
+
+- **Guess the Number**  
+  A VanillaJS-based number guessing game.
 
 ---
 
