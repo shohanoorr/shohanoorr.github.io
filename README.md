@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 I am deeply passionate about advancing **Explainable AI (XAI)** — making complex **AI systems** more transparent, trustworthy, and aligned with human reasoning. My interests lie in applying **Machine Learning (ML)** and **Deep Learning (DL)** techniques with efficient **hyperparameter tuning** to solve real-world problems where **interpretability** is critical. I have explored areas such as **Deep Neural Networks**, **convolutional** and **recurrent architectures**, and **Reinforcement Learning (RL)**, including methods like **Markov Decision Processes (MDPs)**, **Temporal Difference (TD) learning**, **Advantage Actor-Critic (A2C)**, and **Deep Deterministic Policy Gradient (DDPG)**. These experiences have strengthened my commitment to building **intelligent systems** that not only perform well but can also explain *why* they behave as they do. Complementing my research interests, I bring **2 years of professional experience** as a **full-stack engineer**, designing and deploying **scalable fintech applications** using **Spring Boot microservices** and **Angular**, which enhances my ability to bridge **theoretical innovation** with **practical implementation**.
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **Rajshahi University of Engineering & Technology (RUET)**  
   *Bachelor of Science in Computer Science & Engineering*  
@@ -24,7 +24,7 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 
 ---
 
-## 📊 Test Scores
+##  Test Scores
 
 - **GRE**  
   - **Quantitative:** 165  
@@ -33,7 +33,7 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
     
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Engineer  
 **Brain Station-23 PLC., Dhaka, Bangladesh**  
@@ -50,7 +50,7 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - <img src="assets/tennant.png" width="30"/> **Tennant Company**  
   Tennant Company provides innovative, battery-powered autonomous cleaning solutions integrated into a scalable cloud platform, Optimus, built on Azure. The system enables real-time data collection, aggregation, and insight generation via API-driven architecture, powering portals like Hercules and IRIS.
@@ -81,14 +81,14 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 
 ---
 
-## 📄 Thesis
+##  Thesis
 
 - [Generative Adversarial Network based Synthetic Data Generation System](https://github.com/shohanoorr/UG-Thesis.git)
 
 ---
-## 🏅 Certifications
+##  Certifications
 
-### 🧠 Deep Learning & GANs (DeepLearning.AI)
+###  Deep Learning & GANs (DeepLearning.AI)
 - [Generative Adversarial Networks (GANs)](https://coursera.org/share/4e77a15c8e4b36a6a1bb5087d89b9ee6)
 - [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/share/22fc3c9a49e2b21da48cf4cea50bc9f7)
 - [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/HBCDHSZMQ36U)
@@ -98,7 +98,7 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 - [Convolutional Neural Networks](https://coursera.org/share/0c0962410e14a6578bc35b7b6d32cc1b)
 - [Sequence Models](https://coursera.org/share/31c21f5616a5c2da4eb6157e318751c5)
 
-### 👨‍💻 Programming & Data Foundations
+###  Programming & Data Foundations
 - [Programming for Everybody (Getting Started with Python) – University of Michigan](https://www.coursera.org/account/accomplishments/verify/SVXBF7NQUTSP)
 - [Foundations: Data, Data, Everywhere – Google](https://coursera.org/share/dfc2165696b8b739e7581026d19f1c70)
 
