@@ -24,6 +24,15 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 
 ---
 
+## 📊 Test Scores
+
+- **GRE**  
+  - **Quantitative:** 165  
+  - **Verbal:** 147  
+  - **Analytical Writing:** 3.0
+    
+---
+
 ## 💼 Experience
 
 ### Software Engineer  
