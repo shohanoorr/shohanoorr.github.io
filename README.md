@@ -8,7 +8,7 @@
 
 ##  Career Objective
 
-I am deeply passionate about advancing **Explainable AI (XAI)** — making complex **AI systems** more transparent, trustworthy, and aligned with human reasoning. My interests lie in applying **Machine Learning (ML)** and **Deep Learning (DL)** techniques with efficient **hyperparameter tuning** to solve real-world problems where **interpretability** is critical. I have explored areas such as **Deep Neural Networks**, **convolutional** and **recurrent architectures**, and **Reinforcement Learning (RL)**, including methods like **Markov Decision Processes (MDPs)**, **Temporal Difference (TD) learning**, **Advantage Actor-Critic (A2C)**, and **Deep Deterministic Policy Gradient (DDPG)**. These experiences have strengthened my commitment to building **intelligent systems** that not only perform well but can also explain *why* they behave as they do. Complementing my research interests, I bring **2 years of professional experience** as a **full-stack engineer**, designing and deploying **scalable fintech applications** using **Spring Boot microservices** and **Angular**, which enhances my ability to bridge **theoretical innovation** with **practical implementation**.
+I am deeply passionate about advancing Explainable AI (XAI) — making complex AI systems more transparent, trustworthy, and aligned with human reasoning. My interests lie in applying Machine Learning (ML) and Deep Learning (DL) techniques with efficient hyperparameter tuning to solve real-world problems where interpretability is critical. I have explored areas such as Deep Neural Networks, convolutional and recurrent architectures, and Reinforcement Learning (RL), including methods like Markov Decision Processes (MDPs), Temporal Difference (TD) learning, Advantage Actor-Critic (A2C), and Deep Deterministic Policy Gradient (DDPG). These experiences have strengthened my commitment to building intelligent systems that not only perform well but can also explain why they behave as they do. Complementing my research interests, I bring 2 years of professional experience as a full-stack engineer, designing and deploying scalable fintech applications using Spring Boot microservices and Angular, which enhances my ability to bridge theoretical innovation with practical implementation.
 
 ---
 
@@ -39,13 +39,13 @@ I am deeply passionate about advancing **Explainable AI (XAI)** — making compl
 **Brain Station-23 PLC., Dhaka, Bangladesh**  
 *March 2023 – Present*
 
-- Developed and maintained **digital wallet platforms** with a strong focus on **secure transactions**.
-- Implemented robust **authentication** and **authorization mechanisms** to safeguard user data.
-- Optimized **microservice gateways** to ensure **efficient data flow** and communication.
-- Led **bank integration** to establish **secure connections** with banking partners.
-- Developed **signatory hierarchy framework** and **menu permission system**.
-- Implemented **bulk transaction processing** for **high-volume operations**.
-- Utilized **Apache Kafka** for **real-time event-driven data processing**.
+- Developed and maintained digital wallet platforms with a strong focus on secure transactions.
+- Implemented robust authentication and authorization mechanisms to safeguard user data.
+- Optimized microservice gateways to ensure efficient data flow and communication.
+- Led bank integration to establish secure connections with banking partners.
+- Developed signatory hierarchy framework and menu permission system.
+- Implemented bulk transaction processing for high-volume operations.
+- Utilized Apache Kafka for real-time event-driven data processing.
 - Managed deployment, configuration, and monitoring for system stability.
 
 ---
