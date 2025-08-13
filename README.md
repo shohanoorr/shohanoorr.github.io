@@ -104,5 +104,5 @@ I am passionate about advancing Computer Science through innovative research and
 
 ---
 
-- **Languages:** Java, Python, JavaScript, TypeScript, C/C++, SQL  
-- **Technologies:** Microservices, Spring Boot, Node.js, Express.js, NestJS, Angular, Apache Kafka, PostgreSQL, MongoDB, Redis, Kubernetes
+- **Languages:** Python, Java, JavaScript, TypeScript, C/C++, SQL  
+- **Technologies:** Tensorflow, Distributed Systems, Spring Boot, Angular, Apache Kafka, PostgreSQL
